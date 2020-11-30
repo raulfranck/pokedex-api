@@ -1,0 +1,13 @@
+.pokelist-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+  flex-wrap: wrap;
+
+  justify-content: space-evenly;
+
+  max-height: 100vh;
+  overflow-y: scroll;
+  background-color: cadetblue;
+}
